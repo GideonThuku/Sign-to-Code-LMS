@@ -101,16 +101,17 @@ The platform bridges the gap between **digital skills training** and **employmen
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this project for educational and professional purposes, provided proper attribution is given.
-
----
-
 ## 🙌 Acknowledgements
 
 - **WHO** for accessibility and Deaf/HoH population data  
 - **BrighterMonday** & **Power Learn Talent Hub** for job integration  
 - **Signvrse** for sign-language avatar technology  
-- **Supabase**, **Next.js**, and **Tailwind CSS** for the core tech stack  
+- **Supabase**, **Next.js**, and **Tailwind CSS** for the core tech stack
+
+---
+
+## 📄 Contact  
+
+For permissions, collaborations, or questions, please reach out to the **Sign-to-Code team**:  
+- Gideon Thuku (CTO) – [gideon@sign2code.org](mailto:gideon@sign2code.org)  
+- Rosemary Emeli (CEO) – [rosemary@sign2code.org](mailto:rosemary@sign2code.org)  
