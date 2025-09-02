@@ -16,15 +16,31 @@ The platform bridges the gap between **digital skills training** and **employmen
 ![Main Page](assets/main.png)  
 
 ### Accessibility Features  
+- **Accessibility Center**  
+  - High Contrast for better visibility  
+  - Large Text for readability  
+  - Dark Mode for user preference  
+  - Reduced Motion to minimize distractions  
 ![Accessibility Features](assets/accessibility%20features.png)
 
 ### Course Lessons  
+- **Digital Skills Training**  
+  - Courses tailored for Deaf/HoH learners  
+  - AI-powered sign-language avatars  
+  - Captions and transcripts for every lesson  
 ![Course Lessons](assets/cousrses%20lessons.png) 
 
-### Employer Training Program  
+### Employer Training Program 
+- **Inclusive Employer Training**  
+  - Free training for companies  
+  - Placement support for diverse candidates  
 ![Employer Training](assets/employer.png)  
 
-### Inclusive Job Finder  
+### Inclusive Job Finder 
+- **Career Tools**  
+  - CV Builder with accessibility-first design  
+  - Integration with **BrighterMonday** and **Power Learn Talent Hub**  
+
 ![Find Jobs](assets/find%20jobs.png) 
 ![Find Jobs 2](assets/find%20jobs%20%282%29.png)
 
@@ -32,27 +48,6 @@ The platform bridges the gap between **digital skills training** and **employmen
 ![Free Courses](assets/free%20courses.png) 
 
 ### Job Placement Support  
-![Job Placement](assets/jobplacement.png)  
-
----
-
-## ✨ Key Features
-
-- **Accessibility Center**  
-  - High Contrast for better visibility  
-  - Large Text for readability  
-  - Dark Mode for user preference  
-  - Reduced Motion to minimize distractions  
-
-- **Digital Skills Training**  
-  - Courses tailored for Deaf/HoH learners  
-  - AI-powered sign-language avatars  
-  - Captions and transcripts for every lesson  
-
-- **Inclusive Employer Training**  
-  - Free training for companies  
-  - Placement support for diverse candidates  
-
 - **Job Placement Support**  
   - Candidate matching & screening  
   - Interview coordination & support  
@@ -60,9 +55,7 @@ The platform bridges the gap between **digital skills training** and **employmen
   - 6-month follow-up support  
   - Proven metrics: **85% placement success, 92% retention rate**  
 
-- **Career Tools**  
-  - CV Builder with accessibility-first design  
-  - Integration with **BrighterMonday** and **Power Learn Talent Hub**  
+![Job Placement](assets/jobplacement.png)  
 
 ---
 
