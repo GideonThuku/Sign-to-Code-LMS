@@ -19,17 +19,17 @@ The platform bridges the gap between **digital skills training** and **employmen
 ![Accessibility Features](assets/accessibility%20features.png)
 
 ### Course Lessons  
-![Course Lessons](assets/cousrses-lessons.png)  
+![Course Lessons](assets/cousrses%20lessons.png) 
 
 ### Employer Training Program  
 ![Employer Training](assets/employer.png)  
 
 ### Inclusive Job Finder  
-![Find Jobs](assets/find-jobs.png)  
-![Find Jobs 2](assets/find-jobs-2.png)  
+![Find Jobs](assets/find%20jobs.png) 
+![Find Jobs 2](assets/find%20jobs%20%282%29.png)
 
 ### Free Courses  
-![Free Courses](assets/free-courses.png)  
+![Free Courses](assets/free%20courses.png) 
 
 ### Job Placement Support  
 ![Job Placement](assets/jobplacement.png)  
