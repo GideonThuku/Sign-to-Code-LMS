@@ -1,4 +1,4 @@
-=## 📸 Screenshots  
+## 📸 Screenshots  
 
 ### Homepage  
 ![Main Page](assets/main.png)  
