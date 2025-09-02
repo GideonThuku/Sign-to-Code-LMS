@@ -16,7 +16,7 @@ The platform bridges the gap between **digital skills training** and **employmen
 ![Main Page](assets/main.png)  
 
 ### Accessibility Features  
-![Accessibility Features](assets/accessibility-features.png)  
+![Accessibility Features](assets/accessibility%20features.png)
 
 ### Course Lessons  
 ![Course Lessons](assets/cousrses-lessons.png)  
