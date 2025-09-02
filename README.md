@@ -6,7 +6,7 @@ The platform bridges the gap between **digital skills training** and **employmen
 ---
 
 ## 🚀 Deployment  
-👉 [Live Project Link](https://398999-0bfd722b94354f74b39f30fc74496e87-6-latest.app.mgx.dev/about)
+👉 [Live Project Link](https://398999-0bfd722b94354f74b39f30fc74496e87-6-latest.app.mgx.dev/)
 
 ---
 
@@ -104,4 +104,3 @@ You are free to use, modify, and distribute this project for educational and pro
 - **BrighterMonday** & **Power Learn Talent Hub** for job integration  
 - **Signvrse** for sign-language avatar technology  
 - **Supabase**, **Next.js**, and **Tailwind CSS** for the core tech stack  
-
