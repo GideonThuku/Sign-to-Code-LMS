@@ -44,7 +44,20 @@ The platform bridges the gap between **digital skills training** and **employmen
 ![Find Jobs](assets/find%20jobs.png) 
 ![Find Jobs 2](assets/find%20jobs%20%282%29.png)
 
-### Free Courses  
+### Courses  
+- **Free Courses**  
+  - *Digital Literacy 101*: Master email, online safety, and digital communication basics.  
+  - *Coding Basics*: Learn HTML, CSS, and JavaScript fundamentals.  
+  - Always available at no cost to ensure equal access for Deaf and Hard-of-Hearing youth.  
+
+- **Premium Courses**  
+  - Advanced web development, Python programming, data analysis, and accessibility design.  
+  - Offered at affordable subscription rates to support sustainability.  
+
+- **Scholarships**  
+  - Need-based and merit-based scholarships are available for Deaf learners.  
+  - Partnered organizations and sponsors can fund learners’ access to premium content.  
+  - Ensures no student is left behind due to financial barriers.
 ![Free Courses](assets/free%20courses.png) 
 
 ### Job Placement Support  
