@@ -1,0 +1,47 @@
+$ cp /workspace/uploads/signtocode\ \(1\).png public/assets/signtocode-logo.png
+$ cp /workspace/uploads/Robotica.mp4 public/assets/robotica-demo.mp4
+
+$ pnpm run build
+
+
+> shadcnui@ build /data/chats/0bfd722b94354f74b39f30fc74496e87/workspace/shadcn-ui
+> vite build
+
+vite v5.4.19 building for production...
+transforming...
+✓ 1812 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   1.73 kB │ gzip:   0.66 kB
+dist/assets/index-DWoVqzxG.css   77.30 kB │ gzip:  12.76 kB
+dist/assets/index-De2a-lYF.js   635.72 kB │ gzip: 187.08 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 7.26s
+$ pnpm run lint
+
+
+> shadcnui@ lint /data/chats/0bfd722b94354f74b39f30fc74496e87/workspace/shadcn-ui
+> eslint --quiet ./src
+
+
+/data/chats/0bfd722b94354f74b39f30fc74496e87/workspace/shadcn-ui/src/components/Forms/EmployerTrainingForm.tsx
+  90:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 1 problem (1 error, 0 warnings)
+
+ ELIFECYCLE  Command failed with exit code 1.
+$ pnpm add react-player
+
+Progress: resolved 0, reused 1, downloaded 0, added 0
+Progress: resolved 49, reused 49, downloaded 0, added 0
+Progress: resolved 220, reused 220, downloaded 0, added 0
+Progress: resolved 519, reused 456, downloaded 0, added 0
+ WARN  1 deprecated subdependencies found: rollup-plugin-terser@7.0.2
+Already up to date
+Progress: resolved 548, reused 473, downloaded 0, added 0, done
+
+Done in 6.7s

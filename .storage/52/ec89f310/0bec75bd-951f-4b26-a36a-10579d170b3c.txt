@@ -1,0 +1,5 @@
+$ pnpm run lint
+
+> shadcnui@ lint /data/chats/0bfd722b94354f74b39f30fc74496e87/workspace/shadcn-ui
+> eslint --quiet ./src
+

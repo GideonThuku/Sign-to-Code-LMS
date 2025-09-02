@@ -1,0 +1,21 @@
+$ cd /data/chats/0bfd722b94354f74b39f30fc74496e87/workspace && find . -name "*.tsx" -o -name "*.ts" -o -name "package.json" | head -20
+./shadcn-ui/package.json
+./shadcn-ui/src/App.tsx
+./shadcn-ui/src/components/Layout.tsx
+./shadcn-ui/src/components/VideoPlayer.tsx
+./shadcn-ui/src/components/ui/accordion.tsx
+./shadcn-ui/src/components/ui/alert-dialog.tsx
+./shadcn-ui/src/components/ui/alert.tsx
+./shadcn-ui/src/components/ui/aspect-ratio.tsx
+./shadcn-ui/src/components/ui/avatar.tsx
+./shadcn-ui/src/components/ui/badge.tsx
+./shadcn-ui/src/components/ui/breadcrumb.tsx
+./shadcn-ui/src/components/ui/button.tsx
+./shadcn-ui/src/components/ui/calendar.tsx
+./shadcn-ui/src/components/ui/card.tsx
+./shadcn-ui/src/components/ui/carousel.tsx
+./shadcn-ui/src/components/ui/chart.tsx
+./shadcn-ui/src/components/ui/checkbox.tsx
+./shadcn-ui/src/components/ui/collapsible.tsx
+./shadcn-ui/src/components/ui/command.tsx
+./shadcn-ui/src/components/ui/context-menu.tsx

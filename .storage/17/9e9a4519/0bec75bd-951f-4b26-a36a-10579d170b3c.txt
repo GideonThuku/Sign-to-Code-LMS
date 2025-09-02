@@ -1,0 +1,46 @@
+$ cd /data/chats/0bfd722b94354f74b39f30fc74496e87/workspace && find . -name "*.tsx" -o -name "*.ts" -o -name "package.json" | head -20
+./shadcn-ui/package.json
+./shadcn-ui/src/App.tsx
+./shadcn-ui/src/components/Layout.tsx
+./shadcn-ui/src/components/VideoPlayer.tsx
+./shadcn-ui/src/components/ui/accordion.tsx
+./shadcn-ui/src/components/ui/alert-dialog.tsx
+./shadcn-ui/src/components/ui/alert.tsx
+./shadcn-ui/src/components/ui/aspect-ratio.tsx
+./shadcn-ui/src/components/ui/avatar.tsx
+./shadcn-ui/src/components/ui/badge.tsx
+./shadcn-ui/src/components/ui/breadcrumb.tsx
+./shadcn-ui/src/components/ui/button.tsx
+./shadcn-ui/src/components/ui/calendar.tsx
+./shadcn-ui/src/components/ui/card.tsx
+./shadcn-ui/src/components/ui/carousel.tsx
+./shadcn-ui/src/components/ui/chart.tsx
+./shadcn-ui/src/components/ui/checkbox.tsx
+./shadcn-ui/src/components/ui/collapsible.tsx
+./shadcn-ui/src/components/ui/command.tsx
+./shadcn-ui/src/components/ui/context-menu.tsx
+$ cd /data/chats/0bfd722b94354f74b39f30fc74496e87/workspace/shadcn-ui
+
+$ pnpm add @stripe/stripe-js react-player
+
+Progress: resolved 1, reused 0, downloaded 0, added 0
+Progress: resolved 2, reused 0, downloaded 0, added 0
+Progress: resolved 35, reused 33, downloaded 0, added 0
+Progress: resolved 225, reused 223, downloaded 2, added 0
+Progress: resolved 530, reused 425, downloaded 26, added 0
+Progress: resolved 542, reused 425, downloaded 36, added 0
+ WARN  1 deprecated subdependencies found: rollup-plugin-terser@7.0.2
+Packages: +47
++++++++++++++++++++++++++++++++++++++++++++++++
+Progress: resolved 548, reused 426, downloaded 45, added 0
+Progress: resolved 548, reused 426, downloaded 46, added 40
+Progress: resolved 548, reused 426, downloaded 46, added 46
+Progress: resolved 548, reused 426, downloaded 47, added 46
+Progress: resolved 548, reused 426, downloaded 47, added 47
+Progress: resolved 548, reused 426, downloaded 47, added 47, done
+
+dependencies:
++ @stripe/stripe-js 7.9.0
++ react-player 3.3.2
+
+Done in 15s

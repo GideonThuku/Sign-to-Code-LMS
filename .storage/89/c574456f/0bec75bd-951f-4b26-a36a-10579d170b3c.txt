@@ -1,0 +1,43 @@
+$ pnpm run build
+
+> shadcnui@ build /data/chats/0bfd722b94354f74b39f30fc74496e87/workspace/shadcn-ui
+> vite build
+
+vite v5.4.19 building for production...
+transforming...
+✓ 1760 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.85 kB │ gzip:   0.48 kB
+dist/assets/index-CXQywvUy.css   82.44 kB │ gzip:  13.26 kB
+dist/assets/index-DdRraJsL.js   605.77 kB │ gzip: 174.39 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 9.26s
+$ cp "/workspace/uploads/Gideon Thuku.png" public/assets/gideon-thuku.png
+
+$ cp "/workspace/uploads/Rosemary Emeli.png" public/assets/rosemary-emeli.png
+
+$ pnpm run build
+
+
+> shadcnui@ build /data/chats/0bfd722b94354f74b39f30fc74496e87/workspace/shadcn-ui
+> vite build
+
+vite v5.4.19 building for production...
+transforming...
+✓ 1760 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.85 kB │ gzip:   0.48 kB
+dist/assets/index-BWV4SPbx.css   82.44 kB │ gzip:  13.26 kB
+dist/assets/index-OobC0amV.js   606.37 kB │ gzip: 174.62 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 5.77s

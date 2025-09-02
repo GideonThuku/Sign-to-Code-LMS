@@ -1,0 +1,3 @@
+$ cp /workspace/uploads/signtocode\ \(1\).png public/assets/signtocode-logo.png
+$ cp /workspace/uploads/Robotica.mp4 public/assets/robotica-demo.mp4
+

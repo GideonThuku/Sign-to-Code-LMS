@@ -1,0 +1,19 @@
+$ pnpm run build
+
+> shadcnui@ build /data/chats/0bfd722b94354f74b39f30fc74496e87/workspace/shadcn-ui
+> vite build
+
+vite v5.4.19 building for production...
+transforming...
+✓ 1757 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.85 kB │ gzip:   0.48 kB
+dist/assets/index--spU_UBP.css   80.39 kB │ gzip:  13.03 kB
+dist/assets/index-B8CKj383.js   573.73 kB │ gzip: 167.15 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 5.68s

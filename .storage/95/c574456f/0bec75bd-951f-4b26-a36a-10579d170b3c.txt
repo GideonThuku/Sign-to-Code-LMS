@@ -1,0 +1,71 @@
+$ pnpm run build
+
+> shadcnui@ build /data/chats/0bfd722b94354f74b39f30fc74496e87/workspace/shadcn-ui
+> vite build
+
+vite v5.4.19 building for production...
+transforming...
+✓ 1760 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.85 kB │ gzip:   0.48 kB
+dist/assets/index-CXQywvUy.css   82.44 kB │ gzip:  13.26 kB
+dist/assets/index-DdRraJsL.js   605.77 kB │ gzip: 174.39 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 9.26s
+$ cp "/workspace/uploads/Gideon Thuku.png" public/assets/gideon-thuku.png
+
+$ cp "/workspace/uploads/Rosemary Emeli.png" public/assets/rosemary-emeli.png
+
+$ pnpm run build
+
+
+> shadcnui@ build /data/chats/0bfd722b94354f74b39f30fc74496e87/workspace/shadcn-ui
+> vite build
+
+vite v5.4.19 building for production...
+transforming...
+✓ 1760 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.85 kB │ gzip:   0.48 kB
+dist/assets/index-BWV4SPbx.css   82.44 kB │ gzip:  13.26 kB
+dist/assets/index-OobC0amV.js   606.37 kB │ gzip: 174.62 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 5.77s
+$ cp "/workspace/uploads/Rosemary Emeli (1).png" public/assets/rosemary-emeli-new.png
+
+$ ls -la public/assets/
+
+total 9247
+drwxr-xr-x  7 root root 3158016 Sep  2 02:57 .
+drwxrwxr-x 10 root root 3170304 Sep  1 22:44 ..
+-rw-r--r--  1 root root  668298 Sep  2 02:54 gideon-thuku.png
+-rw-r--r--  1 root root  586261 Sep  1 23:03 robotica-demo.mp4
+-rw-r--r--  1 root root  829191 Sep  2 02:59 rosemary-emeli-new.png
+-rw-r--r--  1 root root  829191 Sep  2 02:54 rosemary-emeli.png
+-rw-r--r--  1 root root  225512 Sep  1 23:03 signtocode-logo.png
+$ ls -la "/workspace/uploads/"
+
+total 87337
+drwxr-xr-x  25 root root 17223680 Sep  2 02:56 .
+drwxr-xr-x 715 root root 55013376 Sep  2 03:00 ..
+-rw-r--r--   1 root root   668298 Sep  2 02:56 Gideon Thuku (1).png
+-rw-r--r--   1 root root   668298 Sep  2 02:47 Gideon Thuku.png
+-rw-r--r--   1 root root   586261 Sep  1 23:01 Robotica.mp4
+-rw-r--r--   1 root root   829191 Sep  2 02:56 Rosemary Emeli (1).png
+-rw-r--r--   1 root root   829191 Sep  2 02:47 Rosemary Emeli.png
+drwxr-xr-x  16 root root 12935168 Sep  1 22:31 assets
+-rw-r--r--   1 root root   225512 Sep  1 22:59 signtocode (1).png
+-rw-r--r--   1 root root   225512 Sep  1 23:00 signtocode (2).png
+-rw-r--r--   1 root root   225512 Sep  1 22:59 signtocode.png
+$ cp "/workspace/uploads/Gideon Thuku.png" public/assets/gideon-thuku.png
+
