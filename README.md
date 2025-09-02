@@ -109,7 +109,7 @@ The platform bridges the gap between **digital skills training** and **employmen
 
 - **WHO** for accessibility and Deaf/HoH population data  
 - **BrighterMonday** & **Power Learn Talent Hub** for job integration  
-- **Signvrse** for sign-language avatar technology  
+- **SIMAX** for sign-language avatar technology  
 - **Supabase**, **Next.js**, and **Tailwind CSS** for the core tech stack
 
 ---
