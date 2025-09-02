@@ -20,20 +20,23 @@ The platform bridges the gap between **digital skills training** and **employmen
   - High Contrast for better visibility  
   - Large Text for readability  
   - Dark Mode for user preference  
-  - Reduced Motion to minimize distractions  
+  - Reduced Motion to minimize distractions
+     
 ![Accessibility Features](assets/accessibility%20features.png)
 
 ### Course Lessons  
 - **Digital Skills Training**  
   - Courses tailored for Deaf/HoH learners  
   - AI-powered sign-language avatars  
-  - Captions and transcripts for every lesson  
+  - Captions and transcripts for every lesson
+    
 ![Course Lessons](assets/cousrses%20lessons.png) 
 
 ### Employer Training Program 
 - **Inclusive Employer Training**  
   - Free training for companies  
-  - Placement support for diverse candidates  
+  - Placement support for diverse candidates
+      
 ![Employer Training](assets/employer.png)  
 
 ### Inclusive Job Finder 
@@ -58,6 +61,7 @@ The platform bridges the gap between **digital skills training** and **employmen
   - Need-based and merit-based scholarships are available for Deaf learners.  
   - Partnered organizations and sponsors can fund learners’ access to premium content.  
   - Ensures no student is left behind due to financial barriers.
+    
 ![Free Courses](assets/free%20courses.png) 
 
 ### Job Placement Support  
